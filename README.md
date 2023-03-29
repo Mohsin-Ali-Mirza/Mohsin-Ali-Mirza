@@ -22,7 +22,7 @@ Please take a look at my portfolio to see examples of my work:
 <p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </p>
-<img align="right" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" />
+<img align="right" src="https://media.tenor.com/V6n6v8qdRn0AAAAM/typing-fast-typing.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🌱 I am currently an Undergraduate CS student.</li>
