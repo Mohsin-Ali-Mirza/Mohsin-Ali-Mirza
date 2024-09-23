@@ -27,8 +27,8 @@ Please take a look at my portfolio to see examples of my work:
 <ul>
 <li>🌱 I am currently an Undergraduate CS student.</li>
 <li>🔭 Exploring <strong>Machine Learning</strong>, <strong>Deep Learning</strong> and <strong>Game Development.</strong></li>
-<li>👨‍💻 Most of my projects are available on my <a href="https://mohsinalimirxa.wixsite.com/experience/">portfolio</a> or my <a href="https://github.com/Mohsin-Ali-Mirza">Github</a> account.
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1Isg0eolZavbhcSibrDduVn6shjhKHtTi/view?usp=sharing">resume</a>.</li>
+<li>👨‍💻 Most of my projects are available on my <a href="https://mohsin-ali.vercel.app/">portfolio</a> or my <a href="https://github.com/Mohsin-Ali-Mirza">Github</a> account.
+<!-- <li>📙 Check out my <a href="https://drive.google.com/file/d/1Isg0eolZavbhcSibrDduVn6shjhKHtTi/view?usp=sharing">resume</a>.</li> -->
 <li>📫 Feel free to reach out to me on <a href="https://www.linkedin.com/in/mohsin-ali-mirza/">linkedin</a>.</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
