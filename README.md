@@ -1,63 +1,78 @@
-<!--TODO: ADD PORTFOLIO-->
-<h2>Hey 👋, I'm Mohsin Ali Mirza <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-<p>
-As a passionate and experienced game developer, I have spent 3+ honing my skills in Unity, Unreal, C++, C#, and other relevant technologies. I have a proven track record of developing exceptional games and applications for PC and mobile platforms, including hyper casual games and applications with machine learning capabilities.
+## 💫 About Me:
 
-In addition, I have experience creating Augmented and Virtual Reality applications, as well as 3D modeling using Blender and designing game UIs using Photoshop. My approach to development involves creating clean and readable code that is well-documented and can be easily maintained.
+<img align="right" src="https://media.tenor.com/V6n6v8qdRn0AAAAM/typing-fast-typing.gif" width="220" alt="Typing Cat" style="margin-left: 20px; margin-bottom: 10px; border-radius: 8px;" />
 
-Throughout my career, I have demonstrated my ability to work collaboratively within teams and lead team projects. I am always eager to learn more about the latest technologies and techniques.
+<!-- <p>&nbsp;</p> -->
 
-Please take a look at my portfolio to see examples of my work:
-.</p>
-<p>
-
-[![Portfolio](https://img.shields.io/badge/Wix-%2310d1a5.svg?logo=wix&logoColor=white)](https://mohsinalimirxa.wixsite.com/experience)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin-ali-mirza/) 
-[![Github](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Mohsin-Ali-Mirza)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/infernos_studios/) 
-[![Artstation](https://img.shields.io/badge/ArtStation-%23000000.svg?logo=artstation&logoColor=white)](https://www.artstation.com/blazinggenocide) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@pandorasbox5788)
-
-</p>
-<p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-</p>
-<img align="right" src="https://media.tenor.com/V6n6v8qdRn0AAAAM/typing-fast-typing.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🌱 I am currently an Undergraduate CS student.</li>
-<li>🔭 Exploring <strong>Machine Learning</strong>, <strong>Deep Learning</strong> and <strong>Game Development.</strong></li>
-<li>👨‍💻 Most of my projects are available on my <a href="https://mohsin-ali.vercel.app/">portfolio</a> or my <a href="https://github.com/Mohsin-Ali-Mirza">Github</a> account.
-<!-- <li>📙 Check out my <a href="https://drive.google.com/file/d/1Isg0eolZavbhcSibrDduVn6shjhKHtTi/view?usp=sharing">resume</a>.</li> -->
-<li>📫 Feel free to reach out to me on <a href="https://www.linkedin.com/in/mohsin-ali-mirza/">linkedin</a>.</li>
+  <li>🎓 I'm currently a Master's Student at the University of Bremen (MSc. AI & Intelligent Systems).</li>
+  <li>🎨 I'm a Hobbyist Artist and Game Developer.</li>
+  <li>🎥 I have a <a href="https://www.youtube.com/@yomohsin">YouTube Channel</a> where I document my learning process.</li>
+  <li>🌱 I'm currently exploring Deep Learning, Agentic AI, Robotics & Extended Reality (XR) Development.</li>
+  <li>👨‍💻 My projects are available on my <a href="https://mohsin-ali.vercel.app/">portfolio</a> or my <a href="https://github.com/Mohsin-Ali-Mirza">GitHub</a> account.</li>
+  <li>📫 Feel free to reach out to me on: 
+    <a href="https://www.linkedin.com/in/mohsin-ali-mirza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: middle;" /></a> 
+    <a href="mailto:mohsinalimirxa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle;" /></a>
+  </li>
 </ul>
-<h2>✒️ Recent Posts</h2>
-<details>
-    <summary>Explore</summary>
-    <li><a target="_blank" href="https://mohsinalimirxa.wixsite.com/experience/copy-of-shaders-animation">Flappy Bird AI Using NEAT (Neural Evolution Augmented Topologies) Genetic + Deep Neural Networks — July 2022 </a></li>
-    <li><a target="_blank" href="https://github.com/Mohsin-Ali-Mirza/Height-Prediction-For-Projectile-Motion-Simulation">Height-Prediction-For-Projectile-Motion-Simulation — Nov 2021 </a></li>
-    <li><a target="_blank" href="https://www.artstation.com/artwork/JvvEoz">Unreal Engine 5 Cinematic Reel — March 24, 2023</a></li>
-</details>
-<h2>🚀 Some Langues And Tools I Use</h2>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+
+<br clear="right"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohsin-Ali-Mirza&show_icons=true&count_private=true&theme=tokyonight" alt="Mohsin-Ali-Mirza" />
+## 🌐 Socials:
+<a href="https://mohsin-ali.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/mohsin-ali-mirza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/infernos_studios/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.youtube.com/@yomohsin" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="mailto:mohsinalimirxa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+
+### 🛠️ Technical Toolkit
+
+<p align="center"> 
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?&style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?&style=for-the-badge&logo=langchain&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?&style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="Google Gemini" src="https://img.shields.io/badge/Gemini-8E75FF?&style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img alt="Anthropic Claude" src="https://img.shields.io/badge/Claude-D97706?&style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img alt="ROS2" src="https://img.shields.io/badge/ROS2-22314E?&style=for-the-badge&logo=ros&logoColor=white" />
+  
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/azure-%230089D6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white" />
+
+  <img alt="Oculus" src="https://img.shields.io/badge/Oculus-%231C1A19.svg?&style=for-the-badge&logo=oculus&logoColor=white" />
+  <img alt="OpenXR" src="https://img.shields.io/badge/OpenXR-007ACC?&style=for-the-badge&logo=khronosgroup&logoColor=white" />
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
+  <img alt="Unreal Engine 5" src="https://img.shields.io/badge/Unreal%20Engine%205-%230E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white" />
+</p> 
+
+---
+
+<p align="center">
+  <em>Let's build something extraordinary together!</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" style="vertical-align: middle; margin-right: 8px;">
+</p>
