@@ -6,10 +6,10 @@
 
 <ul>
   <li>🎓 I'm currently a Master's Student at the University of Bremen (MSc. AI & Intelligent Systems).</li>
-  <li>🎨 I'm a Hobbyist Artist and Game Developer.</li>
-  <li>🎥 I have a <a href="https://www.youtube.com/@yomohsin">YouTube Channel</a> where I document my learning process.</li>
   <li>🌱 I'm currently exploring Deep Learning, Agentic AI, Robotics & Extended Reality (XR) Development.</li>
-  <li>👨‍💻 My projects are available on my <a href="https://mohsin-ali.vercel.app/">portfolio</a> or my <a href="https://github.com/Mohsin-Ali-Mirza">GitHub</a> account.</li>
+  <li>👨‍💻 My projects are available on my <a href="https://mohsin-ali.vercel.app/">Portfolio</a> or my <a href="https://github.com/Mohsin-Ali-Mirza">GitHub</a> account.</li>
+  <li>🎥 I have a <a href="https://www.youtube.com/@yomohsin">YouTube Channel</a> where I document my learning process.</li>
+  <li>🎨 I'm a Hobbyist Artist and Game Developer.</li>
   <li>📫 Feel free to reach out to me on: 
     <a href="https://www.linkedin.com/in/mohsin-ali-mirza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: middle;" /></a> 
     <a href="mailto:mohsinalimirxa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle;" /></a>
